@@ -51,7 +51,7 @@ Studied smallholder farmer data to improve distribution and repayment strategies
 ---
 
 ## 🏆 Certifications
-🎓 Data Analyst in Power BI Certificate – DataCamp  
+🎓 Associate Data Analyst in Power BI – DataCamp  
 📘 ALX Virtual Assistant Program (Admin & Data Support)  
 
 ---
